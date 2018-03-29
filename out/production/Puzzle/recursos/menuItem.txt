@@ -1,0 +1,5 @@
+Mezclar popmezclar.png
+3X3 pop3x3.png
+4X4 pop4x4.png
+5X5 pop5x5.png
+6X6 pop6x6.png
